@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TRAVEL NOTES</string>
+    <string name="note_title">Travel Notes</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_email">Enter email</string>
+    <string name="forget_password">Did you forget your password ?</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="title">Title</string>
+    <string name="enter_city">Enter City</string>
+    <string name="enter_notes">Enter your notes</string>
+    <string name="add">ADD</string>
+    <string name="signin">SIGN IN</string>
+    <string name="signup">SIGN UP</string>
+
+
+
+</resources>
