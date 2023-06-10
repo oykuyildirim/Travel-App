@@ -1,6 +1,6 @@
 # Travel-App
 Bu android projesi gezdiğimiz yerlerle ilgili online olarak, uygulama için kullanıcı girişi ve kayıt olma özelliği sayesinde güvenli bir şekilde not tutmamızı sağlamaktadır.
-Bu notlar kaydedildikten sonra uygulamaya giriş yapan kişinin notları listelenmekte ve not girme formu bulunmaktadır. Uzun süreli olarak notun üzerine tıklandığında onaylandığı takdirde not silinebilmektedir.
+Bu notlar kaydedildikten sonra uygulamaya giriş yapan kişinin notları listelenmekte ve not girme formu bulunmaktadır. Uzun süreli olarak notun üzerine tıklandığında onaylandığı takdirde not silinebilmektedir. Tıklandığında ise note detayı görülebilmektedir.
 ### Uygulamada Kullanılan Özellikler:
   Name | Version |
   <br> Kotlin | 1.7.20 |</br> 
